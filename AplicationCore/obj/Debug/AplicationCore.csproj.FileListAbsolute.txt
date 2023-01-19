@@ -1,0 +1,9 @@
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\bin\Debug\AplicationCore.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\bin\Debug\AplicationCore.pdb
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\obj\Debug\AplicationCore.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\obj\Debug\AplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\obj\Debug\AplicationCore.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\obj\Debug\AplicationCore.pdb
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\bin\Debug\Dapper.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\bin\Debug\Dapper.xml
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\AplicationCore\obj\Debug\AplicationCore.csproj.CopyComplete

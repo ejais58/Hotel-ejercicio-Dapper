@@ -1,0 +1,11 @@
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\AplicationCore.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\AplicationCore.pdb
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\Dapper.dll
+C:\Users\Elias Jais\Desktop\Extrados\HotelApp-actualizado\Infrastructure\bin\Debug\Dapper.xml
